@@ -1,10 +1,10 @@
 # TAJAM
 ## Template with Bootstrap 3
-* ##libs:
+* ## libs:
     * jquery.fancybox;
     * owl carousel;
     * waypoints.
-* ##fonts:
+* ## fonts:
     * Roboto;
     * Hammersmith One;
     * Playfair Display;
